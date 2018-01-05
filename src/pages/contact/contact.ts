@@ -9,8 +9,5 @@ export class ContactPage {
 
   constructor(public navCtrl: NavController) {
 
-  }
-go(){
-  this.navctrl.push("ContactPage")
-}
+
 }
